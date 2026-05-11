@@ -51,7 +51,7 @@ implementation "com.ifttt:connect-button:2.5.4"
 
 
 ### Set up ConnectButton
-To get started, after setting up the dependency, add a `ConnectButton` to your layout and set it up with a `Configuration`. For example, in your layout xml file,
+To setting up a a `ConnectButton` to your layout and set it up with a `Configuration`. For example, in your layout xml file,
 
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
